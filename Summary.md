@@ -38,6 +38,8 @@ Under **GPL version 2.0**, such linking would require the entire combination to 
 
 One of the least -restricted licenses. The *MIT License* permits anyone to use, copy, modify, merge, publish, distribute, sublicense and/or sell the software as long as the copyright notice is intact and included. 
 
+>Mozilla Public License 2.0 (MPL -2.0)
+MPL's intent is to provide a balance between extremely restrictve licenses (such as GNU GPL) and extremely generous licenses (such as MIT or BSD). 
 
 
 
