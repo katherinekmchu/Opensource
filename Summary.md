@@ -41,7 +41,12 @@ One of the least -restricted licenses. The *MIT License* permits anyone to use, 
 >Mozilla Public License 2.0 (MPL -2.0)
 MPL's intent is to provide a balance between extremely restrictve licenses (such as GNU GPL) and extremely generous licenses (such as MIT or BSD). 
 
+MPL grants broad rights (world-wide, royalty free, non exclusive) under copyright (to use, reproduce, make available, modify, display, perform, distribute, and otherwise exploit) and under patent (to make, use, sell, offer for sale, have made, import or otherwise transfer version) under some 'responsibilities', including:
 
+- When distributing in *source form*, any modifications or contributions to the covered software will be governed under the same license term. The distributor must inform the recipient that the software is governed by such software, and how they can obtain a copy of this license.
+- When distributing in *executable form*, the software must also be made available in source code form, and must inform recipient of how they can obtain a copy of the source code by a reasonable matter, at a charge no more than reasonable cost of distribution; and you may distribute the executable form under the terms of this license or another license, provided that the license for the executable form does not alter/limit the recipients rights in the source code form under this license. 
+
+Note that distribution as part of a larger work (i.e., 'compability') - MPL permits the distribution of covered work with other non-covered work, so long as the requirements are met for the covered work, and that the covered software is not incompatible with the secondary licenses. MPL further permits a distributor to distribute covered software under the terms of secondary license(s), so that the recipient of the larger work may, at their option, further distribute the covered software under terms of either this license (MPL) or the secondary license(s).  
 
 
 
